@@ -11,7 +11,6 @@ I build complete web products end to end: front end, back end, database and depl
 - **Tools:** Git, GitHub, Vercel, Docker
 
 ## 🚀 Featured Projects
-- **CutPro Studio** — a full browser-based video editor (multi-track timeline, effects, real MP4 export): https://muse.ai/s/cutpro-studio-lt6bddyxpic3/eeRJ2EaTSvZxiClpOYWOhJrvDfTjGtec2DfQ2jNHxFM
 - **Personal Portfolio** — my developer portfolio, live in production: https://ibrahim-khan-portfolio.vercel.app (code in the Personal-portfolio repository)
 - **UI Clone Demos** — Facebook, Amazon, YouTube and Netflix interface clones built with HTML/CSS/JavaScript (see my repositories)
 - **FactToons** — Urdu facts YouTube channel with an automated daily Shorts pipeline: https://www.youtube.com/channel/UCLLt34MY71PSkE6Vb5L8LRg
